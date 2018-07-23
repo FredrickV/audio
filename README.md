@@ -34,4 +34,4 @@ Create a minimalistic, portable audio library with as few external dependencies 
 # Version of changes
 
 * 0.0.1
-- Initial version. Not yet tested. 
+Initial version. Not yet tested. 
