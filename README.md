@@ -9,6 +9,8 @@ This audio library is a direct port of SFML2. All credits goes to the original d
 
 If you plan to use SFML as your Windowing system (or any other SFML systems), i highly recommend using the original project for audio as well.
 
+The original authors are in no way responsible for bugs you may encounter while using this library. Please use the "Issue Tracker" found on this repository to report bugs. 
+
 # Purpose
 
 Create a minimalistic, portable audio library with as few external dependencies as possible.
