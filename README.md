@@ -21,6 +21,7 @@ Create a minimalistic, portable audio library with as few external dependencies 
 * sf::sleep changed to std::thread version of sleep
 * Changed library export rules to specifically audio functions only. 
 * Dropped support for FLAC. (Can be easily re-added if it is needed)
+* Isolated code/source files to stay audio specific. (With a few more code simplifications planed down the road)
 
 
 
