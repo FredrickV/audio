@@ -31,11 +31,12 @@ Create a minimalistic, portable audio library with as few external dependencies 
 * Linux MAKEFILE / CMAKE is not in the repository, but code is cross platform.
 * Visual Studio 17 64 bit solution files with binaries are available.
 
-# Changes (if get arround to it)
+# Changes i want to do (if get arround to it)
 
 * sf::Time to std::chrono
 * std::condition_variable to eliminate polling
-* Build option to use glm::vec3 (Stay native to OpenGL or Vulkan)
+* Build option to use glm::vec3 + glm::* (Stay native to OpenGL or Vulkan)
+* Additional accessor functions for direct memory access for game engines and general audio manipulations.
 
 
 # Version of changes
