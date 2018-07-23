@@ -7,7 +7,7 @@ WIP Audio system for games
 
 This audio library is a direct port of SFML2. All credits goes to the original developers. Original project can be found here: https://www.sfml-dev.org/
 
-If you plan to use SFML as your Window (or any other SFML systems), i highly recommend using the original project for audio as well.
+If you plan to use SFML as your Windowing system (or any other SFML systems), i highly recommend using the original project for audio as well.
 
 # Purpose
 
