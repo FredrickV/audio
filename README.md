@@ -33,7 +33,7 @@ Create a minimalistic, portable audio library with as few external dependencies 
 * Linux MAKEFILE / CMAKE is not in the repository, but code is cross platform.
 * Visual Studio 17 64 bit solution files with binaries are available.
 
-# Changes i want to do (if get arround to it)
+# Changes I want to do (if timw allows)
 
 * sf::Time to std::chrono
 * std::condition_variable to eliminate polling
