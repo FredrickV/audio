@@ -37,7 +37,7 @@ Create a minimalistic, portable audio library with as few external dependencies 
 
 * sf::Time to std::chrono
 * std::condition_variable to eliminate polling
-* Build option to use glm::vec3 + glm::* (Stay native to OpenGL or Vulkan)
+* Build option to use glm::vec3 + glm::* (Stay native to OpenGL and Vulkan)
 * Additional accessor functions for direct memory access for game engines and general audio manipulations.
 
 
